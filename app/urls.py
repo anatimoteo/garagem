@@ -9,6 +9,7 @@ from rest_framework.routers import DefaultRouter
 
 from core.views import UserViewSet
 from core.views import AcessorioViewSet
+from core.views import CorViewSet
 
 router = DefaultRouter()
 
