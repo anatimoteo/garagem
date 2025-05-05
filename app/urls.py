@@ -11,6 +11,7 @@ from core.views import UserViewSet
 from core.views import AcessorioViewSet
 from core.views import CorViewSet
 from core.views import ModeloViewSet
+from core.views import VeiculoViewSet
 
 router = DefaultRouter()
 
